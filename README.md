@@ -1,1 +1,1 @@
-This is the Dining Hall Server of the Restaurant
+This is the Dinning Hall Server of the Restaurant
